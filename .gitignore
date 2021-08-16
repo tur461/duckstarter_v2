@@ -1,0 +1,6 @@
+/.idea/
+/.vscode/
+/node_modules/
+/contracts/artifacts
+top.json
+top_res.json
